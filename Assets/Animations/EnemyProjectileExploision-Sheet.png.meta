@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: f47b705d4dfee364bad9e54c45fec46a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -935416001468359202
+    second: EnemyProjectileExploision-Sheet_0
+  - first:
+      213: -6495626216977160452
+    second: EnemyProjectileExploision-Sheet_1
+  - first:
+      213: 4484100012905301658
+    second: EnemyProjectileExploision-Sheet_2
+  - first:
+      213: 537886220143919733
+    second: EnemyProjectileExploision-Sheet_3
+  - first:
+      213: 7704472586616648872
+    second: EnemyProjectileExploision-Sheet_4
+  - first:
+      213: -1938008959690824925
+    second: EnemyProjectileExploision-Sheet_5
+  - first:
+      213: 1890672178234838675
+    second: EnemyProjectileExploision-Sheet_6
+  - first:
+      213: 8595449355796926497
+    second: EnemyProjectileExploision-Sheet_7
+  - first:
+      213: 1842552650440488196
+    second: EnemyProjectileExploision-Sheet_8
+  - first:
+      213: 6131567238194593503
+    second: EnemyProjectileExploision-Sheet_9
+  - first:
+      213: 8710127210277854722
+    second: EnemyProjectileExploision-Sheet_10
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemyProjectileExploision-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 216
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa384b33bcbcd04fbfda54332615b74
+      internalID: -935416001468359202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyProjectileExploision-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 216
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1975a37ad5157e24eacb3adcf0612af6
+      internalID: -6495626216977160452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyProjectileExploision-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 216
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c88e06f4af53540ba7c383bce07746
+      internalID: 4484100012905301658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyProjectileExploision-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 216
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99c906d1a8272041b3dc1141bb97f7a
+      internalID: 537886220143919733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyProjectileExploision-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 216
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3215001f4154b864f91faaea3740e87f
+      internalID: 7704472586616648872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyProjectileExploision-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 216
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ba936c32e4b89458663023416d01c4
+      internalID: -1938008959690824925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyProjectileExploision-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 0
+        width: 216
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3c2930f0a94c64189a69ed8701112b
+      internalID: 1890672178234838675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyProjectileExploision-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 0
+        width: 216
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e90fb420c7e6254299743bbc5f13155
+      internalID: 8595449355796926497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyProjectileExploision-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 0
+        width: 216
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500ff94c9b60420429c999b1a6bf148f
+      internalID: 1842552650440488196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyProjectileExploision-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 0
+        width: 216
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96f911901ac62444b0a72cdbe7ab297
+      internalID: 6131567238194593503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyProjectileExploision-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 216
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd412a3d4a311b42ab985920b7569b2
+      internalID: 8710127210277854722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,439 @@
+fileFormatVersion: 2
+guid: cba5aba6091b5c9428f16215d943fd47
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 440791254663491021
+    second: toasteridle-Sheet_0
+  - first:
+      213: -3893383682793521317
+    second: toasteridle-Sheet_1
+  - first:
+      213: -6234805491733993274
+    second: toasteridle-Sheet_2
+  - first:
+      213: 5196795366283600797
+    second: toasteridle-Sheet_3
+  - first:
+      213: 3017355462207992769
+    second: toasteridle-Sheet_4
+  - first:
+      213: -138080852263860553
+    second: toasteridle-Sheet_5
+  - first:
+      213: -8724095975264265130
+    second: toasteridle-Sheet_6
+  - first:
+      213: -3099069442947716977
+    second: toasteridle-Sheet_7
+  - first:
+      213: -3721313006184912388
+    second: toasteridle-Sheet_8
+  - first:
+      213: -335763403041636874
+    second: toasteridle-Sheet_9
+  - first:
+      213: 5269875335461885973
+    second: toasteridle-Sheet_10
+  - first:
+      213: -4125321999267950206
+    second: toasteridle-Sheet_11
+  - first:
+      213: -5017684438147620254
+    second: toasteridle-Sheet_12
+  - first:
+      213: -3868471238473500422
+    second: toasteridle-Sheet_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: toasteridle-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 546
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b4dde91bcc1b94f98f7a2c8586e41d
+      internalID: 440791254663491021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toasteridle-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 0
+        width: 546
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5801c294a477c1f4eba1e31d93ddc867
+      internalID: -3893383682793521317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toasteridle-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 0
+        width: 546
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf1db3cae0724641ae2a2f3fae09bf3
+      internalID: -6234805491733993274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toasteridle-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 0
+        width: 546
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2591f4c1ba3fd4faf2999ade5773eb
+      internalID: 5196795366283600797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toasteridle-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 0
+        width: 546
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c827d6809c29afa42b1cc00c6a7c37be
+      internalID: 3017355462207992769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toasteridle-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 0
+        width: 546
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d582672d753544b82c84bba9f93302
+      internalID: -138080852263860553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toasteridle-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 0
+        width: 546
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6a2aa41a0b337438d7652e81da4b04
+      internalID: -8724095975264265130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toasteridle-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 3822
+        y: 0
+        width: 546
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67b61696d95f99458d7ea64303b491b
+      internalID: -3099069442947716977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toasteridle-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 4368
+        y: 0
+        width: 546
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3108aaf165fa6a4ca985f3d2c4e47e3
+      internalID: -3721313006184912388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toasteridle-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 4914
+        y: 0
+        width: 546
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da59c4a207d13c4ba09cbb5124cdd30
+      internalID: -335763403041636874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toasteridle-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 0
+        width: 546
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c9ce5c64446354abe96f31e1e34b92
+      internalID: 5269875335461885973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toasteridle-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 6006
+        y: 0
+        width: 546
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a27ce89f913154e98da421e667ffee
+      internalID: -4125321999267950206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toasteridle-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 6552
+        y: 0
+        width: 546
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f4a6daa0857224285fd236ce12d822
+      internalID: -5017684438147620254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toasteridle-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 7098
+        y: 0
+        width: 546
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37739ea79231e194f83e2bc759e88afc
+      internalID: -3868471238473500422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

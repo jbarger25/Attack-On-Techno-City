@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: 5075f40b1c1330c4dac1d67ea744c306
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4683540767647786519
+    second: TvEnemyExplosion-Sheet_0
+  - first:
+      213: -7164035944696439449
+    second: TvEnemyExplosion-Sheet_1
+  - first:
+      213: -50842699514231445
+    second: TvEnemyExplosion-Sheet_2
+  - first:
+      213: -256949973479866578
+    second: TvEnemyExplosion-Sheet_3
+  - first:
+      213: -363474323020742812
+    second: TvEnemyExplosion-Sheet_4
+  - first:
+      213: 5856001931331618487
+    second: TvEnemyExplosion-Sheet_5
+  - first:
+      213: 4327552216427931988
+    second: TvEnemyExplosion-Sheet_6
+  - first:
+      213: 2004352450459040148
+    second: TvEnemyExplosion-Sheet_7
+  - first:
+      213: 1448488742051466838
+    second: TvEnemyExplosion-Sheet_8
+  - first:
+      213: 4050940450898851760
+    second: TvEnemyExplosion-Sheet_9
+  - first:
+      213: -3394152482012933131
+    second: TvEnemyExplosion-Sheet_10
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TvEnemyExplosion-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 216
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efab5f5b0d66b94a997b7c7bf36c3d7
+      internalID: 4683540767647786519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TvEnemyExplosion-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 216
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ee291f68a295a4ea1cbb9989916976
+      internalID: -7164035944696439449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TvEnemyExplosion-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 216
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d8e5e43c75bb846ad1dd62e9eafab3
+      internalID: -50842699514231445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TvEnemyExplosion-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 216
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8a7fecfeca08745ab0e89a2fb49089
+      internalID: -256949973479866578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TvEnemyExplosion-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 216
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1475b4eab5ff49340a73687ee3ea5f72
+      internalID: -363474323020742812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TvEnemyExplosion-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 216
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de331796c305e5448e0765581d490f9
+      internalID: 5856001931331618487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TvEnemyExplosion-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 0
+        width: 216
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8e4f4efa232ba468965ad13199e527
+      internalID: 4327552216427931988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TvEnemyExplosion-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 0
+        width: 216
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e30ed2d3310b34ea212908a7f1c51e
+      internalID: 2004352450459040148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TvEnemyExplosion-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 0
+        width: 216
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a88ad7d32342c44814cf2a11dfffa5
+      internalID: 1448488742051466838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TvEnemyExplosion-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 0
+        width: 216
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb86008c42e02cc44aa2e5f7de951f58
+      internalID: 4050940450898851760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TvEnemyExplosion-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 216
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890f6c53eb75b0147bc8f5af69882812
+      internalID: -3394152482012933131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

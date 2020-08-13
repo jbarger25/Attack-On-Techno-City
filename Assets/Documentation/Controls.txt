@@ -1,0 +1,8 @@
+Controls: 'A' - move and point character to the left
+'D' - move and point character to the right
+'W' - jump
+'Space' - shoot in direction of character
+'LCtrl' - Use energy to heal character
+'P'- open and close pause menu
+Objective: Traverse each level and shoot the enemies without dying
+Make it through all levels without dying
